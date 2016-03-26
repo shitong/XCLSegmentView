@@ -3,4 +3,4 @@
 
 ## Screenshots
 ---------
-![image](https://github.com/shitong/XCLPageView/blob/master/Screenshots/Screenshots0) 
+![image](https://github.com/shitong/XCLSegmentView/blob/master/Screenshots/Screenshots0) 
